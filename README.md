@@ -43,11 +43,15 @@ Requests for help, questions about usage, suggestions and other relevant topics 
 
 License
 -------
-Copyright 2012. [Arash Payan] [arash].
+Copyright 2013. [Arash Payan] [arash].
 This library is distributed under the terms of the MIT/X11.
 
 While not required, I greatly encourage and appreciate any improvements that you make
 to this library be contributed back for the benefit of all who use Appirater.
+
+Tips
+----
+Bitcoin tips are welcome: 1PxVtrzR4oHEKPojVx41JJnWGuPLggYDQy
 
 Ports for other SDKs
 --------------
